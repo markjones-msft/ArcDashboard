@@ -1,5 +1,5 @@
-# Sample Report - ArcDashboard
-This is a sample Arc dahsboard used to demonstrate the insights availible via Arc and Azure Resource Graph for your IT infrastructure. The dashboard covers a wide range of components including servers, SQL Instances, SQL Databases and ESU (Extended Security Updates) forecasting for servers connected to Arc or in Azure.
+# Arc and Azure Sample Dashboard
+This is a sample Power BI dahsboard used to demonstrate the insights availible via Arc and Azure Resource Graph for your IT infrastructure. The dashboard covers a wide range of components including servers, SQL Instances, SQL Databases and ESU (Extended Security Updates) forecasting for servers connected to Arc or in Azure.
 
 ## Disclaimer
 This Sample Report is provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. Microsoft does not warrant that the script/functionality will meet your requirements or that the operation of the script/functionality will be uninterrupted or error-free. Use of the Sample Report is at your own risk. Microsoft will not be liable for any damages arising from the use of this script/functionality.
@@ -18,11 +18,11 @@ Here are some screenshots of the Arc Dashboard:
 </p>
 
 # What is Included in the ArcDashboard
-The dashboard has 4 sections
-1. Server Inventory - WIll include Arc and Azure Servers
-2. SQL Inventory - Will include Arc and Azure SQL Servers
-3. Databases - Will include Arc Databases only
-4. ESU Forecast - Provides an estimate, based on todays pricing, ESU future Costs for WIndows 2016 and SQL 2016 Extended Support Updates. For detailed prices of ESUs see: https://azure.microsoft.com/en-us/pricing/details/azure-arc/core-control-plane/
+The Power BI has 4 sample Dahsbaords:
+1. Server Inventory - A detailed inventory of all servers, both Azure and Azure Arc-connected, providing a clear overview of server landscape
+2. SQL Inventory - Information on SQL instances, including both Azure SQL and Azure Arc-enabled SQL servers, ensuring you have a complete view of your SQL VM environment.
+3. Databases - Insights into databases managed through Azure Arc, helping you track and manage your database assets effectively.
+4. ESU Forecast - An estimate of future costs for Extended Security Updates (ESU) for Windows Server 2016 and SQL Server 2016, based on current pricing. For detailed prices of ESUs see: https://azure.microsoft.com/en-us/pricing/details/azure-arc/core-control-plane/
 
 ## Data Sources Used
 The Dashboard has the following data sources:
@@ -43,6 +43,6 @@ The Dashboard has the following data sources:
 8. Save your new PBI Dashboard
 
 ## Known Issues
-1. If there are no Resources matching in your susbscription the Report may encounter Errors
+1. If there are no resources (Servers, SQL Instances, Databases) in your susbscription the Report may encounter Errors.
 
 
