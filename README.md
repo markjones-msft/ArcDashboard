@@ -19,10 +19,10 @@ Here are some screenshots of the Arc Dashboard:
 
 # What is Included in the ArcDashboard
 The dashboard has 4 sections
-1. Server Inventory - WIll include Arc and Azure Servers
-2. SQL Inventory - Will include Arc and Azure SQL Servers
-3. Databases - Will include Arc Databases only
-4. ESU Forecast - Provides an estimate, based on todays pricing, ESU future Costs for WIndows 2016 and SQL 2016 Extended Support Updates. For detailed prices of ESUs see: https://azure.microsoft.com/en-us/pricing/details/azure-arc/core-control-plane/
+1. Server Inventory - A detailed inventory of all servers, both Azure and Azure Arc-connected, providing a clear overview of server landscape
+2. SQL Inventory - Information on SQL instances, including both Azure SQL and Azure Arc-enabled SQL servers, ensuring you have a complete view of your SQL VM environment.
+3. Databases - Insights into databases managed through Azure Arc, helping you track and manage your database assets effectively.
+4. ESU Forecast - An estimate of future costs for Extended Security Updates (ESU) for Windows Server 2016 and SQL Server 2016, based on current pricing. For detailed prices of ESUs see: https://azure.microsoft.com/en-us/pricing/details/azure-arc/core-control-plane/
 
 ## Data Sources Used
 The Dashboard has the following data sources:
