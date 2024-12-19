@@ -1,13 +1,11 @@
 # Sample Report - ArcDashboard
 This is a sample Arc dahsboard used to demonstrate the insights availible via Arc and Azure Resource Graph. 
 
-# What is Included in the ArcDashboard
-The dashboard has 4 sections
-1. Server Inventory - WIll include Arc and Azure Servers
-2. SQL Inventory - Will include Arc and Azure SQL Servers
-3. Databases - Will include Arc Databases only
-4. ESU Forecast - Provides an estimate, based on todays pricing, ESU future Costs for WIndows 2016 and SQL 2016 Extended Support Updates. For detailed prices of ESUs see: https://azure.microsoft.com/en-us/pricing/details/azure-arc/core-control-plane/
-   
+## Disclaimer
+This Sample Report is provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. Microsoft does not warrant that the script/functionality will meet your requirements or that the operation of the script/functionality will be uninterrupted or error-free. Use of the Sample Report is at your own risk. Microsoft will not be liable for any damages arising from the use of this script/functionality.
+
+All figures for ESU in this report are estimates and not official quotes. Please consult the official Microsoft documentation or your licensing provider for the most accurate and up-to-date information.
+
 ## Screenshots
 Here are some screenshots of the Arc Dashboard:
 <p float="left">
@@ -19,10 +17,12 @@ Here are some screenshots of the Arc Dashboard:
   <img src="Screenshots/ESUForecast.png" alt="ESU Forecast" width="45%" />
 </p>
 
-## Disclaimer
-This Sample Report is provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. Microsoft does not warrant that the script/functionality will meet your requirements or that the operation of the script/functionality will be uninterrupted or error-free. Use of the Sample Report is at your own risk. Microsoft will not be liable for any damages arising from the use of this script/functionality.
-
-All figures for ESU in this report are estimates and not official quotes. Please consult the official Microsoft documentation or your licensing provider for the most accurate and up-to-date information.
+# What is Included in the ArcDashboard
+The dashboard has 4 sections
+1. Server Inventory - WIll include Arc and Azure Servers
+2. SQL Inventory - Will include Arc and Azure SQL Servers
+3. Databases - Will include Arc Databases only
+4. ESU Forecast - Provides an estimate, based on todays pricing, ESU future Costs for WIndows 2016 and SQL 2016 Extended Support Updates. For detailed prices of ESUs see: https://azure.microsoft.com/en-us/pricing/details/azure-arc/core-control-plane/
 
 ## Data Sources Used
 The Dashboard has the following data sources:
