@@ -1,4 +1,4 @@
-# Sample Report - ArcDashboard
+# Arc and Azure Sample Dashboard
 This is a sample Arc dahsboard used to demonstrate the insights availible via Arc and Azure Resource Graph for your IT infrastructure. The dashboard covers a wide range of components including servers, SQL Instances, SQL Databases and ESU (Extended Security Updates) forecasting for servers connected to Arc or in Azure.
 
 ## Disclaimer
