@@ -43,6 +43,6 @@ The Dashboard has the following data sources:
 8. Save your new PBI Dashboard
 
 ## Known Issues
-1. If there are no Resources matching in your susbscription the Report may encounter Errors
+1. If there are no resources (Servers, SQL Instances, Databases) in your susbscription the Report may encounter Errors.
 
 
