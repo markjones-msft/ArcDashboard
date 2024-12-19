@@ -37,7 +37,7 @@ The Dashboard has the following data sources:
    
 ![Resourc Graph Connector](Screenshots/AzureResourceGraph.png)
 
-5. Sign into your with a login that has read Access to Resource Graph for the subscription(s) you want the report to view.
+5. Sign in with a login that has read Access to Resource Graph for the subscription(s) you want the report to view.
 6. Click "Connect" each time you are prompted
 7. Ignore any errors (see known Issues)
 8. Save your new PBI Dashboard
