@@ -2,12 +2,9 @@
 This is a sample Arc dahsboard used to demonstrate the insights availible via Arc and Azure Resource Graph. 
 
 ## Disclaimer
-<span style="font-size: 8px;">
 This Sample Report is provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. Microsoft does not warrant that the script/functionality will meet your requirements or that the operation of the script/functionality will be uninterrupted or error-free. Use of the Sample Report is at your own risk. Microsoft will not be liable for any damages arising from the use of this script/functionality.
 
 All figures for ESU in this report are estimates and not official quotes. Please consult the official Microsoft documentation or your licensing provider for the most accurate and up-to-date information.
-</span>
-This is normal text, and this is <small>small text</small>. Alternatively, this is <span style="font-size: 12px;">smaller text</span>.
 
 ## Screenshots
 Here are some screenshots of the Arc Dashboard:
