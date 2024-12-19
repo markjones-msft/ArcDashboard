@@ -18,7 +18,7 @@ Here are some screenshots of the Arc Dashboard:
 </p>
 
 # What is Included in the ArcDashboard
-The dashboard has 4 sections
+The Power BI has 4 sample Dahsbaords:
 1. Server Inventory - A detailed inventory of all servers, both Azure and Azure Arc-connected, providing a clear overview of server landscape
 2. SQL Inventory - Information on SQL instances, including both Azure SQL and Azure Arc-enabled SQL servers, ensuring you have a complete view of your SQL VM environment.
 3. Databases - Insights into databases managed through Azure Arc, helping you track and manage your database assets effectively.
