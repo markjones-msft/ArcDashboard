@@ -1,5 +1,5 @@
 # Sample Report - ArcDashboard
-This is a sample Arc dahsboard used to demonstrate the insights availible via Arc and Azure Resource Graph. 
+This is a sample Arc dahsboard used to demonstrate the insights availible via Arc and Azure Resource Graph for your IT infrastructure. The dashboard covers a wide range of components including servers, SQL Instances, SQL Databases and ESU (Extended Security Updates) forecasting for servers connected to Arc or in Azure.
 
 ## Disclaimer
 This Sample Report is provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. Microsoft does not warrant that the script/functionality will meet your requirements or that the operation of the script/functionality will be uninterrupted or error-free. Use of the Sample Report is at your own risk. Microsoft will not be liable for any damages arising from the use of this script/functionality.
@@ -31,11 +31,16 @@ The Dashboard has the following data sources:
 3. Dimentions Folder - CSVs containing Azure SKUs and Product Lifecycle dates
 
 ## How to Install
-1. Download the PBI Template file
+1. Download the Power BI Template file: ArcDashboard-Final.pbit
 2. Open PBI Template File, upon first opening the PBI will refresh
-3. PBI will prompt for credentials for "Azure Resource Graph". You will need to sign into your Azure subscription with a login that has read Access to Resource Graph for the subscription(s) you want the report to view.
-4. Click "Connect" each time you are prompted
-5. Ignore any errors (see known Issues)
+3. PBI will prompt for credentials for "Azure Resource Graph"
+   
+![Resourc Graph Connector](Screenshots/AzureResourceGraph.png)
+
+5. Sign into your with a login that has read Access to Resource Graph for the subscription(s) you want the report to view.
+6. Click "Connect" each time you are prompted
+7. Ignore any errors (see known Issues)
+8. Save your new PBI Dashboard
 
 ## Known Issues
 1. If there are no Resources matching in your susbscription the Report may encounter Errors
