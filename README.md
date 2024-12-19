@@ -31,11 +31,16 @@ The Dashboard has the following data sources:
 3. Dimentions Folder - CSVs containing Azure SKUs and Product Lifecycle dates
 
 ## How to Install
-1. Download the PBI Template file
+1. Download the Power BI Template file: ArcDashboard-Final.pbit
 2. Open PBI Template File, upon first opening the PBI will refresh
-3. PBI will prompt for credentials for "Azure Resource Graph". You will need to sign into your Azure subscription with a login that has read Access to Resource Graph for the subscription(s) you want the report to view.
-4. Click "Connect" each time you are prompted
-5. Ignore any errors (see known Issues)
+3. PBI will prompt for credentials for "Azure Resource Graph"
+   
+![Resourc Graph Connector](Screenshots/AzureResourceGraph.png)
+
+5. Sign into your with a login that has read Access to Resource Graph for the subscription(s) you want the report to view.
+6. Click "Connect" each time you are prompted
+7. Ignore any errors (see known Issues)
+8. Save your new PBI Dashboard
 
 ## Known Issues
 1. If there are no Resources matching in your susbscription the Report may encounter Errors
