@@ -9,8 +9,8 @@ The dashboard has 4 sections
 1. Server Inventory - WIll include Arc and Azure Servers
 2. SQL Inventory - Will include Arc and Azure SQL Servers
 3. Databases - Will include Arc Databases only
-4. ESU Forecast - Will estimate based on todays pricing for ESU with Arc future Costs for WIndows 2016 and SQL 2016 Extended Support Updates 
-
+4. ESU Forecast - Provides an estimate, based on todays pricing, ESU future Costs for WIndows 2016 and SQL 2016 Extended Support Updates. For detailed prices of ESUs see: https://azure.microsoft.com/en-us/pricing/details/azure-arc/core-control-plane/
+   
 ## Data Sources Used
 The Dashboard has the following data sources:
 1. Resource Graph - Used to gather Servers, SQL Instances and Databases across Azure and Connected to Azure Arc. Credentials will be required with Read Access to Resource Graph to your Azure Subscriptions
