@@ -20,6 +20,8 @@ Here are some screenshots of the Arc Dashboard:
 # Required
 This report requires PowerBI Desktop. You can download this at: https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads?msockid=0c5db1779a21637012a6a5f29bea62ee
 
+The report needs an internet connection to run.
+
 # What is Included in the ArcDashboard
 The Power BI has 4 sample Dahsbaords:
 1. **Server Inventory** - A detailed inventory of all servers, both Azure and Azure Arc-connected, providing a clear overview of server landscape
