@@ -34,6 +34,7 @@ The Dashboard has the following data sources:
 1. Resource Graph - Used to gather Servers, SQL Instances and Databases across Azure and Connected to Azure Arc. Credentials will be required with Read Access to Resource Graph to your Azure Subscriptions
 2. Learn.microsoft.com - Used to gather latest SQL Patch information
 3. Dimentions Folder - CSVs containing Azure SKUs and Product Lifecycle dates
+4. Kusto Queries used to access Resource Graph are stored in Queries folder
 
 ## How to Install
 1. Download the Power BI Template file: ArcDashboard-Final.pbit
