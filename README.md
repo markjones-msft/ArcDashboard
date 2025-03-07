@@ -27,13 +27,13 @@ The Power BI has 4 sample Dahsbaords:
 1. **Server Inventory** - A detailed inventory of all servers, both Azure and Azure Arc-connected, providing a clear overview of server landscape
 2. **SQL Inventory** - Information on SQL instances, including both Azure SQL and Azure Arc-enabled SQL servers, ensuring you have a complete view of your SQL VM environment
 3. **Databases** - Insights into databases managed through Azure Arc, helping you track and manage your database assets effectively.
-4. **ESU Forecast** - An estimate of future costs for Extended Security Updates (ESUs) for Windows Server 2016 and SQL Server 2016, based on current pricing. The report will highlight servers on premise and 2016 as ESU cost and 2016 Servers in Azure as ESU avoided or savings. For detailed prices of ESUs see: https://azure.microsoft.com/en-us/pricing/details/azure-arc/core-control-plane/
+4. **ESU Forecast** - An estimate of future costs for Extended Security Updates (ESUs) for Windows Server 2016 and SQL Server 2016, based on current pricing. The report will highlight servers on-premises and 2016 as ESU cost and 2016 Servers in Azure as ESU avoided or savings. For detailed prices of ESUs see: https://azure.microsoft.com/en-us/pricing/details/azure-arc/core-control-plane/
 
 ## Data Sources Used
 The Dashboard has the following data sources:
 1. Resource Graph - Used to gather Servers, SQL Instances and Databases across Azure and Connected to Azure Arc. Credentials will be required with Read Access to Resource Graph to your Azure Subscriptions
 2. Learn.microsoft.com - Used to gather latest SQL Patch information
-3. Dimentions Folder - CSVs containing Azure SKUs and Product Lifecycle dates
+3. Dimensions Folder - CSVs containing Azure SKUs and Product Lifecycle dates
 4. Kusto Queries used to access Resource Graph are stored in Queries folder
 
 ## How to Install
