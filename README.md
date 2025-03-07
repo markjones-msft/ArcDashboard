@@ -1,5 +1,5 @@
 # Arc and Azure Sample Dashboard
-This is a sample Power BI dahsboard used to demonstrate the insights availible via Arc and Azure Resource Graph for your IT infrastructure. The dashboard covers a wide range of components including servers, SQL Instances, SQL Databases and ESU (Extended Security Updates) forecasting for servers connected to Arc or in Azure.
+This is a sample Power BI dashboard used to demonstrate the insights availible via Arc and Azure Resource Graph for your IT infrastructure. The dashboard covers a wide range of components including servers, SQL Instances, SQL Databases and ESU (Extended Security Updates) forecasting for servers connected to Arc or in Azure.
 
 ## Disclaimer
 This Report is provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. Microsoft does not warrant that the Report will meet your requirements or that the operation of the functionality will be uninterrupted or error-free. Use of the Report is at your own risk. Microsoft will not be liable for any damages arising from the use of this script/functionality.
