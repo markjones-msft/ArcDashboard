@@ -1,0 +1,43 @@
+location,region_name,country,latitude,longitude,City
+eastus,East US,United States,37.5407,-77.436,Richmond
+eastus2,East US 2,United States,35.994,-78.8986,Durham
+southcentralus,South Central US,United States,29.4241,-98.4936,San Antonio
+westus,West US,United States,37.7749,-122.4194,San Francisco
+westus2,West US 2,United States,47.233,-119.852,Quincy
+westus3,West US 3,United States,32.7767,-96.797,Dallas
+centralus,Central US,United States,41.5868,-93.625,Des Moines
+northcentralus,North Central US,United States,41.8781,-87.6298,Chicago
+southafricanorth,South Africa North,South Africa,-26.2041,28.0473,Johannesburg
+southafricawest,South Africa West,South Africa,-33.9249,18.4241,Cape Town
+australiaeast,Australia East,Australia,-33.8688,151.2093,Sydney
+australiasoutheast,Australia Southeast,Australia,-37.8136,144.9631,Melbourne
+australiacentral,Australia Central,Australia,-35.2809,149.13,Canberra
+australiacentral2,Australia Central 2,Australia,-35.2809,149.13,Canberra
+brazilsouth,Brazil South,Brazil,-23.5505,-46.6333,São Paulo
+brazilse,Brazil Southeast,Brazil,-22.9068,-43.1729,Rio de Janeiro
+canadacentral,Canada Central,Canada,43.651,-79.347,Toronto
+canadaeast,Canada East,Canada,46.8139,-71.2082,Quebec City
+centralindia,Central India,India,18.5204,73.8567,Pune
+southindia,South India,India,13.0827,80.2707,Chennai
+westindia,West India,India,19.076,72.8777,Mumbai
+eastasia,East Asia,Hong Kong,22.3193,114.1694,Hong Kong
+southeastasia,Southeast Asia,Singapore,1.3521,103.8198,Singapore
+japaneast,Japan East,Japan,35.6762,139.6503,Tokyo
+japanwest,Japan West,Japan,34.6937,135.5023,Osaka
+koreacentral,Korea Central,Korea,37.5665,126.978,Seoul
+koreasouth,Korea South,Korea,35.1796,129.0756,Busan
+northeurope,North Europe,Ireland,53.3498,-6.2603,Dublin
+norwayeast,Norway East,Norway,59.9139,10.7522,Oslo
+norwaywest,Norway West,Norway,58.9699,5.7331,Stavanger
+swedencentral,Sweden Central,Sweden,59.3293,18.0686,Stockholm
+swedensouth,Sweden South,Sweden,55.605,13.0038,Malmö
+switzerlandnorth,Switzerland North,Switzerland,47.3769,8.5417,Zurich
+switzerlandwest,Switzerland West,Switzerland,46.2044,6.1432,Geneva
+uaecentral,UAE Central,United Arab Emirates,24.4539,54.3773,Abu Dhabi
+uaenorth,UAE North,United Arab Emirates,25.276987,55.296249,Dubai
+uksouth,UK South,United Kingdom,51.5074,-0.1278,London
+ukwest,UK West,United Kingdom,51.4816,-3.1791,Cardiff
+francecentral,France Central,France,48.8566,2.3522,Paris
+francesouth,France South,France,43.2965,5.3698,Marseille
+germanynorth,Germany North,Germany,53.5511,9.9937,Hamburg
+germanywestcentral,Germany West Central,Germany,50.1109,8.6821,Frankfurt

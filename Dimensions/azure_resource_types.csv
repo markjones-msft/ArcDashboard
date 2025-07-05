@@ -1,0 +1,11 @@
+resource_type,resource_type_description,resource_type_group,resource_category
+microsoft.hybridcompute/machines,Arc-enabled server,Arc,Server
+microsoft.compute/virtualmachines,Azure Virtual Machine,Azure,Server
+microsoft.azurearcdata/sqlserverinstances,Arc-enabled SQL Server,Arc,SQL Instance
+microsoft.sql/servers/databases, Azure SQL Database,Azure,SQL PaaS Database
+microsoft.sql/managedinstances,Azure SQL Managed Instance,Azure,SQL PaaS Instance
+microsoft.azurearcdata/sqlserverinstances/databases,Arc-enabled SQL Server Database,Arc,Database
+microsoft.sql/servers,Azure SQL Server,Azure,SQL PaaS Instance
+microsoft.sqlvirtualmachine/sqlvirtualmachines,Azure SQL Virtual Machine,Azure,SQL Instance
+microsoft.hybridcompute/machines/extensions,Arc Extensions,Arc,Extensions
+microsoft.compute/virtualmachines/extensions,Azure Extensions,Azure,Extensions
