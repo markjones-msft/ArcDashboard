@@ -18,12 +18,15 @@ SQL Server 2008 Standard,SQL Server 2008,Standard,Expired,,,,,
 SQL Server 2008 Enterprise,SQL Server 2008,Enterprise,Expired,,,,,
 SQL Server 2008 R2 Standard,SQL Server 2008 R2,Standard,Expired,,,,,
 SQL Server 2008 R2 Enterprise,SQL Server 2008 R2,Enterprise,Expired,,,,,
-SQL Server 2012 Standard,SQL Server 2012,Standard,ESU,124.5,1494,"Jul 11, 2017","Jul 12, 2022","Jul 08, 2025"
-SQL Server 2012 Enterprise,SQL Server 2012,Enterprise,ESU,489.5,5874,"Jul 11, 2017","Jul 12, 2022","Jul 08, 2025"
+SQL Server 2012 Standard,SQL Server 2012,Standard,Expired,,,"Jul 11, 2017","Jul 12, 2022","Jul 08, 2025"
+SQL Server 2012 Enterprise,SQL Server 2012,Enterprise,Expired,,,"Jul 11, 2017","Jul 12, 2022","Jul 08, 2025"
+SQL Server 2012 Developer,SQL Server 2012,Developer,Expired,,,"Jul 11, 2017","Jul 12, 2022","Jul 08, 2025"
 SQL Server 2014 Standard,SQL Server 2014,Standard,ESU,139,1668,"Jul 09, 2019","Jul 09, 2024","Jul 12, 2027"
 SQL Server 2014 Enterprise,SQL Server 2014,Enterprise,ESU,540.5,6486,"Jul 09, 2019","Jul 09, 2024","Jul 12, 2027"
+SQL Server 2014 Developer,SQL Server 2014,Developer,ESU,0,0,"Jul 09, 2019","Jul 09, 2024","Jul 12, 2027"
 SQL Server 2016 Standard,SQL Server 2016,Standard,Upcoming,139,1668,"Jul 13, 2021","Jul 14, 2026","Jul 14, 2029"
 SQL Server 2016 Enterprise,SQL Server 2016,Enterprise,Upcoming,540.5,6486,"Jul 13, 2021","Jul 14, 2026","Jul 14, 2029"
+SQL Server 2016 Developer,SQL Server 2016,Developer,Upcoming,0,0,"Jul 13, 2021","Jul 14, 2026","Jul 14, 2029"
 SQL Server 2017 Standard,SQL Server 2017,Standard,OK,139,1668,"Oct 11, 2022","Oct 12, 2027","Oct 12, 2030"
 SQL Server 2017 Enterprise,SQL Server 2017,Enterprise,OK,,,"Oct 11, 2022","Oct 12, 2027","Oct 12, 2030"
 SQL Server 2019 Standard,SQL Server 2019,Standard,OK,,,"Feb 28, 2025","Jan 08, 2030","Jan 08, 2033"
